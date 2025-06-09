@@ -8,7 +8,17 @@ title: "Welcome"
 I'm a **Data Analyst**, **Software Engineer**, and **Computational Researcher** with a passion for using data to drive insights in **neuroimaging**, **biomedical image analysis**, and **machine learning**. With a Master’s in Data Science from Vanderbilt University and over five years of experience, I specialize in building scalable data pipelines, analyzing high-dimensional data, and applying advanced ML techniques to real-world problems.
 
 📍 Currently based in Seattle, WA  
-📫 [Email me](mailto:lixueyuan33@outlook.com) | [LinkedIn](https://www.linkedin.com/in/xueyuan-li-674208249) | [GitHub](https://github.com/Xueyuan33)
+📫 [Email me](mailto:lixueyuan33@outlook.com) | [LinkedIn](https://www.linkedin.com/in/xueyuan-li-674208249/) | [GitHub](https://github.com/Xueyuan33)
+
+---
+
+## 🧪 Current Role
+
+**Staff Research Associate II**  
+*University of California, San Francisco*  
+📍 *San Francisco, CA* | 🗓 *Jan 2025 – Present*
+
+Working in the labs of Dr. Janine Lupo and Dr. Tony Yang, focusing on cutting-edge neuroimaging research. Responsible for collecting, transferring, processing, and analyzing MRI and EEG data from patients to advance understanding in biomedical imaging and develop innovative imaging techniques.
 
 ---
 
