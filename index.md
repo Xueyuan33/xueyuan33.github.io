@@ -74,7 +74,7 @@ Relevant Coursework: Data Structures, Java Programming, Big Data Platforms, Algo
 
 ## 🧠 Interests
 
-Neuroimaging | Bioinformatics | Health Tech | Deep Learning | Data Visualization | Open Science
+Bioimaging Analysis | Bioinformatics | Computer Vision | Machine Learning and Deep Learning | Data Visualization 
 
 ---
 
