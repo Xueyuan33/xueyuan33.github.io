@@ -7,7 +7,7 @@ title: "Welcome"
 
 I'm a **Data Analyst**, and **Computational Researcher** with a passion for using data to drive insights in **neuroimaging**, **biomedical image analysis**, and **machine learning**. With a Master’s in Data Science from Vanderbilt University and over five years of experience, I specialize in building scalable data pipelines, analyzing high-dimensional data, and applying advanced ML techniques to real-world problems.
 
-📍 Currently based in San Francisco, CA 
+📍 Currently based in San Francisco, CA  
 📫 [Email me](mailto:lixueyuan33@outlook.com) | [LinkedIn](https://www.linkedin.com/in/xueyuan-li-674208249/) | [GitHub](https://github.com/Xueyuan33)
 
 ---
@@ -22,17 +22,25 @@ Working in the labs of Dr. Janine Lupo and Dr. Tony Yang, focusing on cutting-ed
 
 ---
 
+## 🎓 Education
+
+**M.S. in Data Science**  
+*Vanderbilt University, Nashville, USA*  
+🗓 *Aug 2022 – May 2024*  
+Relevant Coursework: Python & R, Statistics, Machine Learning, Medical Image Analysis, Database Systems
+
+**B.E. in Data Science and Big Data Technology**  
+*Henan University, Henan, China*  
+🗓 *Sep 2018 – Jun 2022*  
+Relevant Coursework: Data Structures, Java Programming, Big Data Platforms, Algorithms, AI
+
+---
+
 ## 🔬 Research Highlights
 
 - **Biomedical Image Analysis (Vanderbilt University)**  
-  Developed a deep learning framework for pathology image segmentation using the Segment Anything Model (SAM).  
-  *[Read the paper](https://arxiv.org/abs/2308.05785v1)*
-
-- **EEG Transformer for Autism Research**  
-  Applied Python-based EEG signal processing and transformer modeling to classify cognitive patterns in children with autism.
-
-- **Big Data for Disease Diagnosis**  
-  Built web crawlers and performed clustering and association analysis on symptom-disease datasets across 20+ conditions.
+  - Specialized in high-dimensional data analysis and computational pathology, focusing on advancing machine learning and deep learning algorithms for high-resolution biomedical imaging. 
+  - Developed the SAM-assisted Molecular-empowered Learning approach, leveraging innovative techniques to improve segmentation accuracy and enhance model robustness in biomedical image analysis.
 
 ---
 
@@ -51,6 +59,16 @@ Working in the labs of Dr. Janine Lupo and Dr. Tony Yang, focusing on cutting-ed
 - **Cloud-Based Airbnb Recommender** – Collaborative filtering with PySpark on GCP  
 - **Graph-Based Amazon Product Recommender** – Used GNNs and NetworkX for personalized recommendations  
 - **CT Lung Image Segmentation** – Medical imaging pipeline using C++ and ITK/VTK
+
+---
+
+## 📚 Publications
+
+- **Xueyuan Li**, Ruining Deng, Yucheng Tang, Shunxing Bao, Haichun Yang, Yuankai Huo.  
+  *Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning*.  
+  *SPIE Medical Imaging Conferences, 2024*  
+  🏆 Finalist, Robert F. Wagner All-Conference Best Student Paper Award  
+  [Read on arXiv](https://arxiv.org/abs/2308.05785v1)
 
 ---
 
