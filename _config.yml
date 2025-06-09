@@ -1,0 +1,38 @@
+# _config.yml
+
+title: "Xueyuan (Alice) Li"
+description: "Data Analyst | Software Engineer | Neuroimaging & Biomedical Image Researcher"
+author: "Xueyuan Li"
+email: lixueyuan33@outlook.com
+url: "https://xueyuan33.github.io" # Change if your GitHub username is different
+baseurl: "" # leave blank for user.github.io repo
+
+theme: minima
+
+# Social media usernames
+github_username: Xueyuan33
+linkedin_username: xueyuan-li-674208249
+
+# SEO and analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation (if using minima with navigation support)
+minima:
+  social_links:
+    github: Xueyuan33
+    linkedin: xueyuan-li-674208249
+  skin: auto
+
+# Exclude from the site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+markdown: kramdown
+highlighter: rouge
