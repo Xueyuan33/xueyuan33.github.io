@@ -14,9 +14,9 @@ title: "Welcome"
 <br>📫 <a href="mailto:xueyuan.li@ucsf.edu">Email me</a> | <a href="https://www.linkedin.com/in/xueyuan-li-674208249/">LinkedIn</a> | <a href="https://github.com/Xueyuan33">GitHub</a></p>
   </div>
 
-  <!-- Right Column: Photo + Contact -->
+  <!-- Right Column: Photo -->
   <div style="min-width: 200px; text-align: center;">
-    <img src="Alice.JPG" alt="Xueyuan Li" style="width: 180px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 12px;" />
+    <img src="Alice.JPG" alt="Xueyuan Li" style="width: 160px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 12px;" />
   </div>
 
 </div>
