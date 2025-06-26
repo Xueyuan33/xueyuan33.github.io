@@ -3,6 +3,8 @@ layout: home
 title: "Welcome"
 ---
 
+<img src="Alice.jpg" alt="Xueyuan (Alice) Li" style="width: 150px; border-radius: 50%; margin-bottom: 20px;" />
+
 # 👋 Hi, I'm Xueyuan (Alice) Li
 
 I'm a **Data Analyst** and **Computational Researcher** with a passion for using data to drive insights in **neuroimaging**, **biomedical image analysis**, and **machine learning**. With a Master’s in Data Science from Vanderbilt University and over five years of experience, I specialize in building scalable data pipelines, analyzing high-dimensional data, and applying advanced ML techniques to real-world problems.
