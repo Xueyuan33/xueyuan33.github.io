@@ -7,7 +7,6 @@ title: "Welcome"
 
   <!-- Left Column: Intro Text -->
   <div style="flex: 1; min-width: 280px;">
-    <h1>👋 Hi, I'm Xueyuan (Alice) Li</h1>
 
 <p>I'm a <strong>Data Analyst</strong> and <strong>Computational Researcher</strong> with a passion for using data to drive insights in <strong>neuroimaging</strong>, <strong>biomedical image analysis</strong>, and <strong>machine learning</strong>. With a Master’s in Data Science from Vanderbilt University and over five years of experience, I specialize in building scalable data pipelines, analyzing high-dimensional data, and applying advanced ML techniques to real-world problems.</p>
 
