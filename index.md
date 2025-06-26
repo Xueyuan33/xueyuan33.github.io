@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 ---
 
-<img src="Alice.jpg" alt="Xueyuan (Alice) Li" style="width: 150px; border-radius: 50%; margin-bottom: 20px;" />
+<img src="Alice.JPG" alt="Xueyuan (Alice) Li" style="width: 150px; border-radius: 50%; margin-bottom: 20px;" />
 
 # 👋 Hi, I'm Xueyuan (Alice) Li
 
