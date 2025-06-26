@@ -3,11 +3,18 @@ layout: home
 title: "Welcome"
 ---
 
-<img src="Alice.JPG" alt="Xueyuan (Alice) Li" style="width: 150px; border-radius: 50%; margin-bottom: 20px;" />
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-# 👋 Hi, I'm Xueyuan (Alice) Li
+  <img src="Alice.JPG" alt="Xueyuan (Alice) Li" style="width: 150px; border-radius: 50%;"/>
 
-I'm a **Data Analyst** and **Computational Researcher** with a passion for using data to drive insights in **neuroimaging**, **biomedical image analysis**, and **machine learning**. With a Master’s in Data Science from Vanderbilt University and over five years of experience, I specialize in building scalable data pipelines, analyzing high-dimensional data, and applying advanced ML techniques to real-world problems.
+  <div>
+    <h1>👋 Hi, I'm Xueyuan (Alice) Li</h1>
+
+I'm a <strong>Data Analyst</strong> and <strong>Computational Researcher</strong> with a passion for using data to drive insights in <strong>neuroimaging</strong>, <strong>biomedical image analysis</strong>, and <strong>machine learning</strong>. With a Master’s in Data Science from Vanderbilt University and over five years of experience, I specialize in building scalable data pipelines, analyzing high-dimensional data, and applying advanced ML techniques to real-world problems.
+  </div>
+
+</div>
+
 
 📍 Currently based in San Francisco, CA  
 📫 [Email me](mailto:lixueyuan33@outlook.com) | [LinkedIn](https://www.linkedin.com/in/xueyuan-li-674208249/) | [GitHub](https://github.com/Xueyuan33)
