@@ -72,10 +72,4 @@ Relevant Coursework: Data Structures, Java Programming, Big Data Platforms, Algo
 
 ---
 
-## 🧠 Interests
-
-Bioimaging Analysis | Bioinformatics | Computer Vision | Machine Learning and Deep Learning | Data Visualization 
-
----
-
 Thanks for visiting! Feel free to explore my [GitHub projects](https://github.com/Xueyuan33) or [get in touch](mailto:lixueyuan33@outlook.com).
