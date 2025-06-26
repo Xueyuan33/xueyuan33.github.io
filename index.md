@@ -28,10 +28,6 @@ title: "Welcome"
 
 </div>
 
-
-📍 Currently based in San Francisco, CA  
-📫 [Email me](mailto:lixueyuan33@outlook.com) | [LinkedIn](https://www.linkedin.com/in/xueyuan-li-674208249/) | [GitHub](https://github.com/Xueyuan33)
-
 ---
 
 ## 🧪 Current Role
