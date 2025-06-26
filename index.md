@@ -38,12 +38,12 @@ Working in the labs of Dr. Janine Lupo and Dr. Tony Yang, focusing on cutting-ed
 **M.S. in Data Science**  
 *Vanderbilt University, Nashville, USA*  
 🗓 *Aug 2022 – May 2024*  
-Relevant Coursework: Python & R, Statistics, Machine Learning, Medical Image Analysis, Database Systems
+Relevant Coursework: Python & R, Statistics, Machine Learning, Medical Image Analysis, Database Systems, Cloud Computing, Big Data Scaling
 
 **B.E. in Data Science and Big Data Technology**  
 *Henan University, Henan, China*  
 🗓 *Sep 2018 – Jun 2022*  
-Relevant Coursework: Data Structures, Java Programming, Big Data Platforms, Algorithms, AI
+Relevant Coursework: Data Structures, Operating System, Computer Network, Programming, Big Data Platforms, Algorithms, AI
 
 ---
 
