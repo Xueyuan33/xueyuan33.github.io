@@ -38,10 +38,11 @@ Relevant Coursework: Data Structures, Java Programming, Big Data Platforms, Algo
 
 ## 🔬 Research Highlights
 
-- **Biomedical Image Analysis (Vanderbilt University)**  
+- **Biomedical Image Analysis (Vanderbilt University HRLB Lab)**  
   - Specialized in high-dimensional data analysis and computational pathology, focusing on advancing machine learning and deep learning algorithms for high-resolution biomedical imaging. 
   - Developed the SAM-assisted Molecular-empowered Learning approach, leveraging innovative techniques to improve segmentation accuracy and enhance model robustness in biomedical image analysis.
 
+(HRLB Lab: (https://hrlblab.github.io))
 ---
 
 ## 💻 Technical Skills
